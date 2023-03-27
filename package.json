@@ -19,7 +19,10 @@
     "release:patch": "release-it patch",
     "release:minor": "release-it minor",
     "release:major": "release-it major",
-    "release": "release-it"
+    "release": "release-it",
+    "release:ver": "pnpm --filter verdaccio run release",
+    "release:ver:patch": "pnpm --filter verdaccio run release:patch",
+    "release:ver:version": "pnpm --filter verdaccio run release:version"
   },
   "authors": [],
   "license": "MIT",

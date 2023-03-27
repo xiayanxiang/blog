@@ -3,6 +3,10 @@ node_modules
 
 /.pnp
 .pnp.js
+.dumi
+.dumi/tmp
+.dumi/tmp-test
+.dumi/tmp-production
 
 
 # production

@@ -6,7 +6,7 @@
   "scripts": {
 		"release": "release-it",
 		"release:patch": "release-it --ci -- patch",
-		"release-version": "release-it --only-version"
+		"release:version": "release-it --only-version"
 	},
   "keywords": [],
   "author": "",
