@@ -1,0 +1,23 @@
+{
+  "name": "verdaccio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"release": "release-it",
+		"release:patch": "release-it --ci -- patch",
+		"release-version": "release-it --only-version"
+	},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "*"
+  },
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "release-it": "^15.9.3"
+  }
+}

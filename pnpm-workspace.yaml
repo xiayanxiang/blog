@@ -1,0 +1,6 @@
+packages:
+  - 'app'
+  - 'react'
+  - 'weixin'
+  - 'website'
+  - 'verdaccio'
