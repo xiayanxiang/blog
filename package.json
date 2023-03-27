@@ -52,7 +52,8 @@
     ]
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "http://localhost:4874"
   },
   "peerDependencies": {
     "react": ">=16.9.0",
