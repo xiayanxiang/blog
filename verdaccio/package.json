@@ -1,13 +1,13 @@
 {
   "name": "verdaccio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-		"release": "release-it",
-		"release:patch": "release-it --ci -- patch",
-		"release:version": "release-it --only-version"
-	},
+    "release": "release-it",
+    "release:patch": "release-it --ci -- patch",
+    "release:version": "release-it --only-version"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
